@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vpay/static/css/main.073c9b0a.css",
+    "main.js": "/vpay/static/js/main.a8ae6430.js",
+    "static/js/787.7f822f8b.chunk.js": "/vpay/static/js/787.7f822f8b.chunk.js",
+    "static/media/logo.svg": "/vpay/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vpay/index.html",
+    "main.073c9b0a.css.map": "/vpay/static/css/main.073c9b0a.css.map",
+    "main.a8ae6430.js.map": "/vpay/static/js/main.a8ae6430.js.map",
+    "787.7f822f8b.chunk.js.map": "/vpay/static/js/787.7f822f8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a8ae6430.js"
+  ]
+}
